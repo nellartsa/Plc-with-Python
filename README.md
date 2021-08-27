@@ -45,6 +45,8 @@ print(x0)
 
 ## Libraries from Different Plc Brands
 
+![alt text](https://github.com/nellartsa/Plc-with-Python/blob/main/List%20of%20Libraries.png?raw=true)
+
 ## Video Reference
 
 - https://www.youtube.com/watch?v=EMkWRlbpJsk&t=1593s
